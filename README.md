@@ -1,13 +1,5 @@
 ### Hi there 👋
 
-I built some tool to help my developer activity, you can use too:
-- [request](https://github.com/muhfaris/request)
-  this library to help you built request with golang be easy.
-- [proxychecker](https://github.com/muhfaris/proxychecker)
-  this cli application to check of your ip proxy / your list proxy is active.
-- [facebook-sdk-go](https://github.com/muhfaris/facebook-sdk-go)
-   this facebook sdk in go, you can easy to request facebook API
-
 <!--
 **muhfaris/muhfaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
