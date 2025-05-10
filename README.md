@@ -21,8 +21,7 @@ I’m a passionate **Backend Software Engineer** focused on building tools and s
 
 ## 🔭 **Currently Working On**
 
-- 🚀 [**Member Zone**](https://github.com/muhfaris/member-zone) – A WordPress plugin for managing membership levels, offering a flexible system for user registration and handling memberships.
-- 🛠️ [**Bahas Kode**](https://bahaskode.web.id/) – Discover our comprehensive suite of development tools and services.
+- 🛠️ [**Bahas Kode**](https://bahaskode.web.id/) – Focus to integration existing application (rocket) with AI for ease initialize golang application.
 
 ## 📈 **GitHub Stats**
 
